@@ -3,4 +3,4 @@
  - Connect with me on Linkdin
  - Follow me on X
 
- Links are in Bio.
+   Links are in Bio.
