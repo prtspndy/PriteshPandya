@@ -1,84 +1,97 @@
 # Pritesh Pandya
 
-**Web and mobile applications, built one practical project at a time.**
+Full-stack developer building practical web and mobile products focused on real-world workflows.
 
-I'm a developer based in Rajkot, Gujarat, India. I work on software with a clear user workflow: planning a trip, tracking a document request, or managing business invoices. My public repositories show both the applications I'm building and the fundamentals I'm continuing to practice.
+I work on projects that solve everyday problems — travel planning, government service access, and business invoicing — combining interface design, application logic, and data flows into usable software.
 
-[Portfolio](https://pritesh-portfolio-sigma.vercel.app/)
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Work-0A66C2?style=for-the-badge&logo=vercel)](https://pritesh-portfolio-sigma.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pritesh--pandya-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pritesh-pandya-0702prts)
+[![Email](https://img.shields.io/badge/Email-prtspndy%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:prtspndy@gmail.com)
 
-## What I Work On
+</div>
 
-- **Web applications:** I build end-to-end flows that bring together an interface, application logic, and data, as in [GlobeTrotter](https://github.com/prtspndy/GlobeTrotter) and [GovTrack](https://github.com/prtspndy/GovTrack).
-- **Mobile utilities:** My Flutter work includes a billing app focused on everyday business records, invoice calculations, and PDF output.
-- **Web foundations:** Responsive, multi-page sites and my evolving portfolio give me room to practice interface structure and refine the details.
+## About Me
 
-## Current Focus
+- Based in Rajkot, Gujarat, India
+- Interested in building usable software with clear user flows and practical outcomes
+- Working across frontend, backend, APIs, mobile interfaces, and data handling
+- Currently exploring AI engineering and system design while continuing project-based learning
 
-I'm continuing to iterate on web and mobile projects while exploring AI engineering and system design through public learning material. AI is a learning direction for me right now, not a claim that I've shipped an AI product.
+## What I Build
 
----
+- Web applications with end-to-end user journeys
+- Mobile apps for everyday business tasks and utility workflows
+- Responsive frontend experiences and multi-page product sites
+- Small but useful tools that combine design, logic, and persistence
 
-## What I've Built
+## Featured Projects
 
 ### [GlobeTrotter](https://github.com/prtspndy/GlobeTrotter)
+A multi-city travel planner for building itineraries, discovering destinations, tracking budgets, and sharing trips.
 
-A multi-city travel planner for creating itineraries, discovering destinations and activities, tracking budgets, and sharing trips. The project brings a React client together with an Express API and MongoDB-backed data model; it was developed as an Odoo x LDCE hackathon project.
-
-**Stack:** JavaScript · React · Vite · Tailwind CSS · Node.js · Express · MongoDB<br>
-**Links:** [Repository](https://github.com/prtspndy/GlobeTrotter) · [Live demo](https://globetrotter1-kappa.vercel.app/)
+**Stack:** JavaScript · React · Vite · Tailwind CSS · Node.js · Express · MongoDB  
+**Links:** [Repository](https://github.com/prtspndy/GlobeTrotter) · [Live Demo](https://globetrotter1-kappa.vercel.app/)
 
 ### [GovTrack](https://github.com/prtspndy/GovTrack)
+A prototype for submitting government document requests and tracking their status through a review workflow.
 
-A prototype for submitting government document requests and following their status through a review workflow. It explores how an application can make a multi-step service process easier to understand; it is an independent demo, not an official government service.
-
-**Stack:** TypeScript · React · Express · MongoDB<br>
-**Links:** [Repository](https://github.com/prtspndy/GovTrack) · [Live demo](https://govtrack-government-document-request.ai.studio/)
+**Stack:** TypeScript · React · Express · MongoDB  
+**Links:** [Repository](https://github.com/prtspndy/GovTrack) · [Live Demo](https://govtrack-government-document-request.ai.studio/)
 
 ### [GST Billing System](https://github.com/prtspndy/gst_billing_system)
+A Flutter-based billing app for managing customers, products, GST invoices, and PDF bill generation.
 
-A Flutter billing app for maintaining customer and product records, creating GST invoices, and producing shareable PDF bills. Its mobile workflow includes local SQLite storage and Firebase authentication.
-
-**Stack:** Dart · Flutter · SQLite · Firebase Authentication<br>
+**Stack:** Dart · Flutter · SQLite · Firebase Authentication  
 **Links:** [Repository](https://github.com/prtspndy/gst_billing_system)
 
 ### [Incredible India](https://github.com/prtspndy/Incredible-india-website)
+A responsive multi-page website showcasing India's culture, heritage, cuisine, and landmarks.
 
-A responsive, multi-page site about India's culture, heritage, cuisine, and landmarks. This is a focused frontend project built with standard web technologies and Bootstrap.
+**Stack:** HTML · CSS · Bootstrap  
+**Links:** [Repository](https://github.com/prtspndy/Incredible-india-website) · [Live Site](https://incredible-india-website-self.vercel.app/)
 
-**Stack:** HTML · CSS · Bootstrap<br>
-**Links:** [Repository](https://github.com/prtspndy/Incredible-india-website) · [Live site](https://incredible-india-website-self.vercel.app/)
+## Tech Stack
 
----
+### Languages
+JavaScript · TypeScript · Dart · C
 
-## Technical Depth
+### Frontend
+React · Vite · Tailwind CSS · Bootstrap · HTML · CSS
 
-Technologies represented in my public project work:
+### Backend
+Node.js · Express
 
-- **Languages:** JavaScript · TypeScript · Dart · C
-- **Frontend:** React · Vite · Tailwind CSS · Bootstrap · HTML · CSS
-- **Backend:** Node.js · Express
-- **Data and mobile:** MongoDB · SQLite · Flutter · Firebase Authentication
-- **Tools and platforms:** Git · GitHub · Vercel
+### Data & Mobile
+MongoDB · SQLite · Flutter · Firebase Authentication
 
-C appears in my programming practice repositories; the other entries reflect the web and mobile projects featured above. This is a record of tools I've worked with, not a proficiency ranking.
+### Tools & Platforms
+Git · GitHub · Vercel
 
-## How I Build
+## Current Focus
 
-I learn by making a concept concrete, then extending it in a project. My repositories range from small HTML and C exercises to responsive sites and applications with API, storage, and mobile workflows. I keep that progression visible: some repositories are practice or prototypes, while others are more complete demos.
+- Strengthening full-stack web development fundamentals
+- Building more complete product workflows and polished interfaces
+- Exploring AI engineering and system design concepts through hands-on learning
+- Continuing to iterate on practical projects with real use cases
 
-## Open Source and Community
+## Open Source & Community
 
-I've contributed documentation and learning-resource updates through public pull requests, including:
+I’ve also contributed to public technical discussions and documentation improvements, including:
 
-- [Leetcode-Problems: repository documentation and solution efficiency](https://github.com/RoshniUndhad/Leetcode-Problems/pull/2)
+- [Leetcode-Problems: repository documentation and solution efficiency improvements](https://github.com/RoshniUndhad/Leetcode-Problems/pull/2)
 - [Developer ambassador programs: GeeksforGeeks Campus Mantri entry](https://github.com/geshan/developer-ambassador-programs/pull/39)
 
 ## Connect
 
-- **LinkedIn:** [linkedin.com/in/pritesh-pandya-0702prts](https://www.linkedin.com/in/pritesh-pandya-0702prts)
-- **X:** [@prtspndy](https://x.com/prtspndy)
-- **Kaggle:** [kaggle.com/priteshpandya](https://www.kaggle.com/priteshpandya)
-- **YouTube:** [@priteshpandya-20](https://youtube.com/@priteshpandya-20)
-- **Email:** [prtspndy@gmail.com](mailto:prtspndy@gmail.com)
+- Portfolio: [pritesh-portfolio-sigma.vercel.app](https://pritesh-portfolio-sigma.vercel.app/)
+- LinkedIn: [pritesh-pandya-0702prts](https://www.linkedin.com/in/pritesh-pandya-0702prts)
+- X: [@prtspndy](https://x.com/prtspndy)
+- Kaggle: [priteshpandya](https://www.kaggle.com/priteshpandya)
+- YouTube: [@priteshpandya-20](https://www.youtube.com/@priteshpandya-20)
+- Email: [prtspndy@gmail.com](mailto:prtspndy@gmail.com)
+
+---
+
+> I build software by turning ideas into working, useful tools — one practical project at a time.
