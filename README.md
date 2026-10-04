@@ -1,5 +1,7 @@
 # Pritesh Pandya
 
+https://github.com/stars/prtspndy/lists/aim
+
 Full-stack developer building practical web and mobile products focused on real-world workflows.
 
 I work on projects that solve everyday problems — travel planning, government service access, and business invoicing — combining interface design, application logic, and data flows into usable software.
